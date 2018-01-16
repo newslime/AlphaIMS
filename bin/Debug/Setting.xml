@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+  <SerialPort>
+    <Name>COM4</Name>
+    <BaudRate>9600</BaudRate>
+  </SerialPort>
+  <Font>12</Font>
+  <Smtp>
+    <Client>system@zktech.com.cn</Client>
+    <ToMail>g973006@gmail.com</ToMail>
+  </Smtp>
+  <FilePath>C:\Users\newslime\Desktop\KLT</FilePath>
+</Setting>
